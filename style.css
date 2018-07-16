@@ -35,3 +35,8 @@ text-align: center
 		background-color: darkblue;
 	}
 }
+
+iframe {
+    display: block;
+    margin: auto;
+}
