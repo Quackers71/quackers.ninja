@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(back.jpg);
+    background: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(back.jpg);
     background-size: cover;
     background-position: center;
     font-family: Lato;
@@ -28,4 +28,10 @@ body {
 #section1 {
 min-height: 90%;
 text-align: center
+}
+
+@media screen and (min-width: 1200px) {
+	body {
+		background-color: darkblue;
+	}
 }
