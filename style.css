@@ -40,3 +40,7 @@ iframe {
     display: block;
     margin: auto;
 }
+
+function showDate() {
+    document.getElementById('demo').innerHTML = Date();
+}
