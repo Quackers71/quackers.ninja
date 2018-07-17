@@ -1,0 +1,32 @@
+// CSS Libraries
+
+Bootstrap
+Hamburgers.css
+Font-Awesome
+Ionic
+Materialize
+
+// JavaScript Libraries and Frameworks
+
+
+// Standard Libs and FWorks
+// *** Some Libraries could be full of bugs in the code *** (Some)
+
+JQuery
+Dojo Toolkit
+Prototype.js
+Bootstrap
+Velocity.js
+D3.js
+
+// Advanced Libs and FWorks
+
+Angular
+Backbone.js
+Ember.js
+Knockout
+Node.js
+Vue.js
+React
+TypeScript
+
